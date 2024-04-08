@@ -1,6 +1,8 @@
 Instructions
 Here's the explanation of the provided Python script, including how to run it, and the dependencies required:
 
+Link of colab : https://colab.research.google.com/drive/1PFolDMuYbIphIp-QxVX3oZ-huZG-6Za8
+
 Approach to the Solution:
 
 1.The script begins by importing necessary libraries such as pandas, requests, BeautifulSoup, nltk, and os.
